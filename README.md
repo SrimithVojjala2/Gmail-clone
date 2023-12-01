@@ -1,4 +1,4 @@
-![Design preview for the Results summary component coding challenge](./assets/images/Gmail-Clone.jpg)
+![Design preview for the Results summary component coding challenge](./images/Gmail-Clone.jpg)
 
 ## Project Setup
 
